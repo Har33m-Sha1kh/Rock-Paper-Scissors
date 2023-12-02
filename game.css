@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(13, 13, 22);
+}
+
+header {
+    background-color: rgba(255, 255, 255, 0.87);
+    text-align: center;
+    padding: 15px;
+}
+
+.score-board {
+    border: 3px solid white;
+    margin: 20px auto;
+    width: 200px;
+    height: 100px;
+    border-radius: 7px;
+    color: white;
+    position: relative;
+}
+
+#user-label {
+    position: absolute;
+    top: 40px;
+    left: -20px;
+    background-color: red;
+    padding: 2px;
+}
+
+#comp-label {
+    position: absolute;
+    top: 40px;
+    right: -25px;
+    background-color: red;
+    padding: 2px;
+}
+
+.score {
+    font-size: 60px;
+    text-align: center;
+    margin: 15px 0;
+}
+
+.result {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+.choices {
+    text-align: center;
+    margin: 20px 0;
+
+}
+
+.choice {
+    display: inline-block;
+    margin: 15px;
+    border: 3px solid white;
+    border-radius: 50%;
+    padding: 10px;
+    cursor: pointer;
+}
+
+
+
+.action-msg {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.green-glow {
+    border: 3px solid rgba(30, 128, 0, 0.993);
+    box-shadow: 0 0 4px greenyellow;
+}
+
+.red-glow {
+    border: 4px solid rgba(255, 0, 0, 0.719);
+    box-shadow: 0 0 4px rgba(121, 103, 103, 0.932);
+}
+
+.grey-glow {
+    border: 3px solid grey;
+    box-shadow: 0 0 4px white;
+}
