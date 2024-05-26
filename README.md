@@ -7,6 +7,5 @@ I have tried my best to add all conditions and logics involved in ROCK PAPER SCI
 
 ![1715421300297](https://github.com/Har33m-Sha1kh/Rock-Paper-Scissors/assets/152681475/fa492e98-8356-46d5-a3d3-794d9fe18a37)
 
-
-https://github.com/Har33m-Sha1kh/Rock-Paper-Scissors/assets/152681475/794ad5e6-491a-4882-9885-ac9145821545
+[https://github.com/Har33m-Sha1kh/Rock-Paper-Scissors/assets/152681475/794ad5e6-491a-4882-9885-ac9145821545](https://github.com/Har33m-Sha1kh/Rock-Paper-Scissors/assets/152681475/7242265b-ad61-4099-a7f0-079159afe8a4)
 
